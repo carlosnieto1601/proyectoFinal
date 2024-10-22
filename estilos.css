@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin: 30px;
+}
+
+form{
+    background-color: beige;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 55px;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 25px;
+}
+h1{
+    text-align: center;
+}
+label{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid blue;
+    border-radius: 30px;
+}
